@@ -3,3 +3,5 @@ https://qiita.com/shiraji/items/3ec8b8e2035c0a0310be#fn3
 
 
 $ git add => Indexへステージ。
+
+GitHub上で内容を編集しました。
