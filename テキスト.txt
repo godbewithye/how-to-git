@@ -1,2 +1,5 @@
-GitHubの使用方法を勉強するために下記サイトを元に試しています。
+GitHubの使用方法を勉強するために下記サイトを元に試しています。　テストです。
 https://qiita.com/shiraji/items/3ec8b8e2035c0a0310be#fn3
+
+
+$ git add => Indexへステージ。
